@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primeiro_nome" type="id">primeiro_nome</item>
+    <item name="segundo_nome" type="id">segundo_nome</item>
+    <item name="ultimo_nome" type="id">ultimo_nome</item>
+    <item name="imgFoto" type="id">img_foto</item>
+    <item name="nav_todos" type="id" />
+    <item name="nav_feminino" type="id" />
+    <item name="nav_masculino" type="id" />
+    <item name="nav_criacas" type="id" />
+    <item name="nav_batizados" type="id" />
+    <item name="nav_nao_batizados" type="id" />
+    <item name="nav_recem_batizados" type="id" />
+    <item name="nav_estudantes" type="id" />
+    <item name="nav_pioneiros_regulares" type="id" />
+    <item name="nav_anciaos" type="id" />
+    <item name="nav_servos_ministeriais" type="id" />
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@id/nav_todos"
+            android:title="@string/nav_todos" />
+        <item
+            android:id="@id/nav_feminino"
+            android:title="@string/nav_feminino" />
+        <item
+            android:id="@id/nav_masculino"
+            android:title="@string/nav_masculino" />
+        <item
+            android:id="@id/nav_criacas"
+            android:title="@string/nav_criancas" />
+    </group>
+    <item android:title="@string/nav_congregacao">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@id/nav_batizados"
+                    android:title="@string/nav_batizados" />
+                <item
+                    android:id="@id/nav_nao_batizados"
+                    android:title="@string/nav_nao_batizados" />
+                <item
+                    android:id="@id/nav_recem_batizados"
+                    android:title="@string/nav_recem_batizados" />
+                <item
+                    android:id="@id/nav_estudantes"
+                    android:title="@string/nav_estudantes" />
+                <item
+                    android:id="@id/nav_pioneiros_regulares"
+                    android:title="@string/nav_pioneiros_regulares" />
+                <item
+                    android:id="@id/nav_anciaos"
+                    android:title="@string/nav_anciaos" />
+                <item
+                    android:id="@id/nav_servos_ministeriais"
+                    android:title="@string/nav_servos_ministeriais" />
+            </group>
+        </menu>
+    </item>
+</menu>

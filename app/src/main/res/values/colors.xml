@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryPessoas">#ff03a9f4</color>
+    <color name="colorPrimaryDarkPessoas">#ff0288d1</color>
+    <color name="colorAccentPessoas">#ff0288d1</color>
+
+    <color name="com_background">#fff5f5f5</color>
+    <color name="com_edittextbox_border">#ff848484</color>
+    <color name="com_white">#ffffffff</color>
+    <color name="com_accent_base">#ff0288d1</color>
+    <color name="com_separatorBold">@android:color/darker_gray</color>
+
+</resources>
